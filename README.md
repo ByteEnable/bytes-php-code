@@ -1,5 +1,6 @@
-```
+
 === Byte's PHP Code Widget === 
+
 Contributors: ByteEnable
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5DYVPBJDMF9TE
 Tags: php, widget, plugin, execute, eval, adsense
@@ -108,4 +109,4 @@ Link to [WordPress](http://wordpress.org/ \"Your favorite software\") and one to
 
 = 0.1 =
 * Initial release.
-```
+
