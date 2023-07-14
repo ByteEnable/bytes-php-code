@@ -1,4 +1,4 @@
-=== Byte's PHP Code Widget ===
+=== Byte's PHP Code Widget === 
 Contributors: ByteEnable
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5DYVPBJDMF9TE
 Tags: php, widget, plugin, execute, eval, adsense
